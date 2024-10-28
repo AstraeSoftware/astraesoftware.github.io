@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gMzfH5We/UWsASKdhOYGhPPAbadZJVUuDmtc1tO/GVyT1io/C9nbeT3I80bE4ZI2O7K5FccgF/Ko2xCMDU+HZQ==",
+  "success": true,
+  "projectFilePath": "/home/hazelnut/Desktop/environment/hazelnutstudio.github.io/hazelnutstudio.github.io.csproj",
+  "expectedPackageFiles": [
+    "/home/hazelnut/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

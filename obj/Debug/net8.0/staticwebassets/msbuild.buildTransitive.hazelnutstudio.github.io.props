@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/hazelnutstudio.github.io.props" />
+</Project>

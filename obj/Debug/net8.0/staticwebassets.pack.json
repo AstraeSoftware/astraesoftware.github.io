@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "/home/hazelnut/Desktop/environment/hazelnutstudio.github.io/obj/Debug/net8.0/scopedcss/projectbundle/hazelnutstudio.github.io.bundle.scp.css",
+      "PackagePath": "staticwebassets/hazelnutstudio.github.io.bundle.scp.css"
+    },
+    {
+      "Id": "/home/hazelnut/Desktop/environment/hazelnutstudio.github.io/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/home/hazelnut/Desktop/environment/hazelnutstudio.github.io/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/hazelnut/Desktop/environment/hazelnutstudio.github.io/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/hazelnut/Desktop/environment/hazelnutstudio.github.io/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/hazelnut/Desktop/environment/hazelnutstudio.github.io/wwwroot/favicon/apple-touch-icon.png",
+      "PackagePath": "staticwebassets/favicon/apple-touch-icon.png"
+    },
+    {
+      "Id": "/home/hazelnut/Desktop/environment/hazelnutstudio.github.io/wwwroot/favicon/favicon-96x96.png",
+      "PackagePath": "staticwebassets/favicon/favicon-96x96.png"
+    },
+    {
+      "Id": "/home/hazelnut/Desktop/environment/hazelnutstudio.github.io/wwwroot/favicon/favicon.ico",
+      "PackagePath": "staticwebassets/favicon/favicon.ico"
+    },
+    {
+      "Id": "/home/hazelnut/Desktop/environment/hazelnutstudio.github.io/wwwroot/favicon/favicon.svg",
+      "PackagePath": "staticwebassets/favicon/favicon.svg"
+    },
+    {
+      "Id": "/home/hazelnut/Desktop/environment/hazelnutstudio.github.io/wwwroot/favicon/site.webmanifest",
+      "PackagePath": "staticwebassets/favicon/site.webmanifest"
+    },
+    {
+      "Id": "/home/hazelnut/Desktop/environment/hazelnutstudio.github.io/wwwroot/favicon/web-app-manifest-192x192.png",
+      "PackagePath": "staticwebassets/favicon/web-app-manifest-192x192.png"
+    },
+    {
+      "Id": "/home/hazelnut/Desktop/environment/hazelnutstudio.github.io/wwwroot/favicon/web-app-manifest-512x512.png",
+      "PackagePath": "staticwebassets/favicon/web-app-manifest-512x512.png"
+    },
+    {
+      "Id": "/home/hazelnut/Desktop/environment/hazelnutstudio.github.io/wwwroot/hazelbot_interaction.png",
+      "PackagePath": "staticwebassets/hazelbot_interaction.png"
+    },
+    {
+      "Id": "/home/hazelnut/Desktop/environment/hazelnutstudio.github.io/wwwroot/hazelbot_interaction_2.png",
+      "PackagePath": "staticwebassets/hazelbot_interaction_2.png"
+    },
+    {
+      "Id": "/home/hazelnut/Desktop/environment/hazelnutstudio.github.io/wwwroot/hazelnut-trans-wht.png",
+      "PackagePath": "staticwebassets/hazelnut-trans-wht.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.hazelnutstudio.github.io.props",
+      "PackagePath": "build\\hazelnutstudio.github.io.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.hazelnutstudio.github.io.props",
+      "PackagePath": "buildMultiTargeting\\hazelnutstudio.github.io.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.hazelnutstudio.github.io.props",
+      "PackagePath": "buildTransitive\\hazelnutstudio.github.io.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.hazelnutstudio.github.io.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
