@@ -2,6 +2,16 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [ master ]
+  workflow_dispatch:
+    inputs:
+      hi:
+        description: 'this does absolutely nothing'
+        required: false
+        default: 'hi'
+        type: choice
+        options:
+        - hi
+        - goodbye.
 jobs:
   deploy-to-github-pages:
     runs-on: ubuntu-latest
